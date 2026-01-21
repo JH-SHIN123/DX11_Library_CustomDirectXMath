@@ -28,12 +28,12 @@ FileOpenOrder/
 *.obj
 *.ilk
 *.aps
+x64/
+x32/
 
 # === 에셋 및 외부 툴 관련 ===
 Content/ExternalDrivers/
 Plugins/*/Binaries/
 Plugins/*/Intermediate/
 
-# === Mac용 (Xcode 사용 시) ===
-.DS_Store
-*.xcworkspace
+# === 에셋 및 외부 툴 관련 ===
